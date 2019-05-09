@@ -48,5 +48,5 @@ sh exec_fusion.sh
 
 Similarly models for the ablation experiments like scratch and freeze can be run by going to the respective folders.
 
-## Acknowledgments
+## Acknowledgment
 This code has been largely modified from DeepVO implementation by [krrish94](https://github.com/krrish94/DeepVO)
